@@ -1,2 +1,0 @@
-wangbo.
-first test for git.
